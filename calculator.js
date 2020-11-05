@@ -29,6 +29,7 @@ divs.forEach((div)=>{
     //div.classList.add('keys')
 })
 
+// need more comments on everything tbh
 // For number keys only, click and it goes to display board, using (+=) so it doesn't refresh everytime you click numbers
 let numbers = document.querySelectorAll('.number')
 let firstnumber = 0 //Instantiating value of 0 for making the variable
